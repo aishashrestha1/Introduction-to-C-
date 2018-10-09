@@ -19,6 +19,7 @@ int main(int argc, const char * argv[]) {
     std :: cin >> b;
     std :: cout << a+b;
     std :: cout << "\n";
+    std :: cout << "/n";
     
     
     
